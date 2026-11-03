@@ -1,0 +1,19 @@
+{
+  "spec": 1,
+  "name": "Zenon",
+  "previewText": "The quick brown fox jumps over the lazy dog",
+  "main": {
+    "Zenon": {
+      "fontFamily": "Zenon",
+      "fontWeight": 400,
+      "fontStyle": "normal",
+      "fontDisplay": "swap",
+      "src": [
+        {
+          "type": "url",
+          "url": "https://raw.githubusercontent.com/tiosltccnt-cell/font/main/Zenon.ttf"
+        }
+      ]
+    }
+  }
+}
